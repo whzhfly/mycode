@@ -1,0 +1,8 @@
+﻿  20190718最长字符串序列问题.cpp
+F:\code\train\20190718最长字符串序列问题\solution.h(32,21): warning C4018:  “<”: 有符号/无符号不匹配
+F:\code\train\20190718最长字符串序列问题\solution.h(51,21): warning C4018:  “<=”: 有符号/无符号不匹配
+F:\code\train\20190718最长字符串序列问题\solution.h(52,22): warning C4018:  “<=”: 有符号/无符号不匹配
+F:\code\train\20190718最长字符串序列问题\solution.h(65,21): warning C4018:  “<=”: 有符号/无符号不匹配
+F:\code\train\20190718最长字符串序列问题\solution.h(66,22): warning C4018:  “<=”: 有符号/无符号不匹配
+F:\code\train\20190718最长字符串序列问题\solution.h(110,21): warning C4018:  “<”: 有符号/无符号不匹配
+  20190718最长字符串序列问题.vcxproj -> F:\code\train\Debug\20190718最长字符串序列问题.exe

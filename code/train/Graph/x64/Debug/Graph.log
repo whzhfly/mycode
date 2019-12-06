@@ -1,0 +1,10 @@
+﻿  Graph.cpp
+F:\code\train\Graph\Graph.cpp(250,25): warning C4018:  “<”: 有符号/无符号不匹配
+F:\code\train\Graph\Graph.cpp(264,76): warning C4018:  “<”: 有符号/无符号不匹配
+F:\code\train\Graph\Graph.cpp(284,1): warning C4267:  “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\code\train\Graph\Graph.cpp(331,1): warning C4267:  “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\code\train\Graph\Graph.cpp(436,1): warning C4267:  “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\code\train\Graph\Graph.cpp(486,1): warning C4267:  “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\code\train\Graph\Graph.cpp(581,34): warning C4553:  “==”: 未使用表达式结果；是否打算使用“=”?
+F:\code\train\Graph\Graph.cpp(582,34): warning C4553:  “==”: 未使用表达式结果；是否打算使用“=”?
+  Graph.vcxproj -> F:\code\train\x64\Debug\Graph.exe

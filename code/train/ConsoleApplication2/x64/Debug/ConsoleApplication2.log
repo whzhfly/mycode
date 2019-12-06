@@ -1,0 +1,3 @@
+﻿  m.cpp
+F:\code\train\ConsoleApplication2\m.cpp(24,34): warning C4267:  “参数”: 从“size_t”转换到“int”，可能丢失数据
+  ConsoleApplication2.vcxproj -> F:\code\train\x64\Debug\2019717动态规划.exe

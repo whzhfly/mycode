@@ -1,0 +1,3 @@
+﻿  神赐数据.cpp
+F:\code\train\神赐数据\solution.h(51,1): warning C4267:  “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  神赐数据.vcxproj -> F:\code\train\x64\Debug\神赐数据.exe

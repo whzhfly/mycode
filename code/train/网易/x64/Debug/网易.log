@@ -1,0 +1,7 @@
+﻿  网易.cpp
+F:\code\train\网易\solution.h(101,15): warning C4244:  “初始化”: 从“div3::ll”转换到“int”，可能丢失数据
+F:\code\train\网易\solution.h(316,1): warning C4267:  “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\code\train\网易\solution.h(332,20): warning C4267:  “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\code\train\网易\solution.h(333,20): warning C4267:  “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\code\train\网易\solution.h(378,13): warning C4101:  “a”: 未引用的局部变量
+  网易.vcxproj -> F:\code\train\x64\Debug\网易.exe

@@ -1,0 +1,6 @@
+﻿  Search.cpp
+D:\Code\ConsoleApplication1\Graphnew\Graph.h(22): warning C4101: “i”: 未引用的局部变量
+D:\Code\ConsoleApplication1\Graphnew\Graph.h(61): warning C4101: “j”: 未引用的局部变量
+D:\Code\ConsoleApplication1\Graphnew\Graph.h(61): warning C4101: “i”: 未引用的局部变量
+D:\Code\ConsoleApplication1\Graphnew\Search.cpp(58): warning C4101: “i”: 未引用的局部变量
+  Graphnew.vcxproj -> D:\Code\ConsoleApplication1\x64\Debug\Graphnew.exe

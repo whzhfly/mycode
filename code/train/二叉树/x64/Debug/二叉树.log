@@ -1,0 +1,5 @@
+﻿  二叉树.cpp
+F:\code\train\二叉树\BinaryTree.h(90,14): error C2760:  语法错误: 意外标记 ">"，应为 "表达式"
+F:\code\train\二叉树\BinaryTree.h(289): message :  查看对正在编译的 类 模板 实例化“binary_tree<T>”的引用
+F:\code\train\二叉树\BinaryTree.h(125,14): error C2760:  语法错误: 意外标记 ">"，应为 "表达式"
+F:\code\train\二叉树\BinaryTree.h(159,14): error C2760:  语法错误: 意外标记 ">"，应为 "表达式"

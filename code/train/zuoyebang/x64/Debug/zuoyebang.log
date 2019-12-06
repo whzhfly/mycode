@@ -1,0 +1,5 @@
+﻿  zuoyebang.cpp
+F:\code\train\zuoyebang\solution.h(21,1): warning C4267:  “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\code\train\zuoyebang\solution.h(50,1): warning C4267:  “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\code\train\zuoyebang\zuoyebang.cpp(11,36): warning C4267:  “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  zuoyebang.vcxproj -> F:\code\train\x64\Debug\zuoyebang.exe

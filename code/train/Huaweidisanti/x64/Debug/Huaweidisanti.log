@@ -1,0 +1,3 @@
+﻿  Huaweidisanti.cpp
+F:\code\train\Huaweidisanti\Huaweidisanti.cpp(80,21): warning C4267:  “=”: 从“size_t”转换到“int”，可能丢失数据
+  Huaweidisanti.vcxproj -> F:\code\train\x64\Debug\Huaweidisanti.exe

@@ -1,0 +1,29 @@
+﻿F:\VS2019\IDE\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (腾讯2019秋招笔试.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  腾讯2019秋招笔试.cpp
+F:\code\train\腾讯2019秋招笔试\solution.h(17,1): error C2660:  “tencent::min”: 函数不接受 2 个参数
+F:\code\train\腾讯2019秋招笔试\solution.h(71,6): message :  参见“tencent::min”的声明
+F:\code\train\腾讯2019秋招笔试\solution.h(18,1): error C2660:  “tencent::min”: 函数不接受 2 个参数
+F:\code\train\腾讯2019秋招笔试\solution.h(71,6): message :  参见“tencent::min”的声明
+F:\code\train\腾讯2019秋招笔试\solution.h(20,1): error C2660:  “tencent::min”: 函数不接受 2 个参数
+F:\code\train\腾讯2019秋招笔试\solution.h(71,6): message :  参见“tencent::min”的声明
+F:\code\train\腾讯2019秋招笔试\solution.h(38,1): warning C4554:  “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+F:\code\train\腾讯2019秋招笔试\solution.h(44,1): warning C4554:  “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+F:\code\train\腾讯2019秋招笔试\solution.h(52,1): error C2660:  “tencent::min”: 函数不接受 2 个参数
+F:\code\train\腾讯2019秋招笔试\solution.h(71,6): message :  参见“tencent::min”的声明
+F:\code\train\腾讯2019秋招笔试\solution.h(53,1): error C2660:  “tencent::min”: 函数不接受 2 个参数
+F:\code\train\腾讯2019秋招笔试\solution.h(71,6): message :  参见“tencent::min”的声明
+F:\code\train\腾讯2019秋招笔试\solution.h(59,1): warning C4554:  “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+F:\code\train\腾讯2019秋招笔试\solution.h(127,34): error C2065:  “k”: 未声明的标识符
+F:\code\train\腾讯2019秋招笔试\solution.h(127,17): error C2672:  “std::min”: 未找到匹配的重载函数
+F:\code\train\腾讯2019秋招笔试\solution.h(127,1): error C2784:  “_Ty std::min(std::initializer_list<_Elem>)”: 未能从“_Ty”为“std::initializer_list<_Elem>”推导 模板 参数
+F:\code\train\腾讯2019秋招笔试\solution.h(127,1): error C2784:         with
+F:\code\train\腾讯2019秋招笔试\solution.h(127,1): error C2784:         [
+F:\code\train\腾讯2019秋招笔试\solution.h(127,1): error C2784:             _Ty=int
+F:\code\train\腾讯2019秋招笔试\solution.h(127,1): error C2784:         ]
+F:\VS2019\IDE\VC\Tools\MSVC\14.21.27702\include\algorithm(4504): message :  参见“std::min”的声明
+F:\code\train\腾讯2019秋招笔试\solution.h(127,1): error C2780:  “const _Ty &std::min(const _Ty &,const _Ty &) noexcept(<expr>)”: 应输入 2 个参数，却提供了 1 个
+F:\VS2019\IDE\VC\Tools\MSVC\14.21.27702\include\algorithm(4492): message :  参见“std::min”的声明
+F:\code\train\腾讯2019秋招笔试\solution.h(127,1): error C2780:  “_Ty std::min(std::initializer_list<_Elem>,_Pr)”: 应输入 2 个参数，却提供了 1 个
+F:\VS2019\IDE\VC\Tools\MSVC\14.21.27702\include\algorithm(4484): message :  参见“std::min”的声明
+F:\code\train\腾讯2019秋招笔试\solution.h(127,1): error C2780:  “const _Ty &std::min(const _Ty &,const _Ty &,_Pr) noexcept(<expr>)”: 应输入 3 个参数，却提供了 1 个
+F:\VS2019\IDE\VC\Tools\MSVC\14.21.27702\include\algorithm(4478): message :  参见“std::min”的声明

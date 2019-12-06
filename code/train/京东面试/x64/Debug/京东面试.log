@@ -1,0 +1,54 @@
+﻿  京东面试.cpp
+F:\code\train\京东面试\solution.h(35,12): warning C4244:  “初始化”: 从“_Ty”转换到“int”，可能丢失数据
+F:\code\train\京东面试\solution.h(35,12): warning C4244:         with
+F:\code\train\京东面试\solution.h(35,12): warning C4244:         [
+F:\code\train\京东面试\solution.h(35,12): warning C4244:             _Ty=__int64
+F:\code\train\京东面试\solution.h(35,12): warning C4244:         ]
+F:\code\train\京东面试\京东面试.cpp(12,10): warning C4244:  “初始化”: 从“_Ty”转换到“int”，可能丢失数据
+F:\code\train\京东面试\京东面试.cpp(12,10): warning C4244:         with
+F:\code\train\京东面试\京东面试.cpp(12,10): warning C4244:         [
+F:\code\train\京东面试\京东面试.cpp(12,10): warning C4244:             _Ty=__int64
+F:\code\train\京东面试\京东面试.cpp(12,10): warning C4244:         ]
+F:\code\train\京东面试\京东面试.cpp(17,15): warning C4244:  “=”: 从“_Ty”转换到“int”，可能丢失数据
+F:\code\train\京东面试\京东面试.cpp(17,15): warning C4244:         with
+F:\code\train\京东面试\京东面试.cpp(17,15): warning C4244:         [
+F:\code\train\京东面试\京东面试.cpp(17,15): warning C4244:             _Ty=__int64
+F:\code\train\京东面试\京东面试.cpp(17,15): warning C4244:         ]
+F:\code\train\京东面试\京东面试.cpp(24,10): warning C4244:  “初始化”: 从“_Ty”转换到“int”，可能丢失数据
+F:\code\train\京东面试\京东面试.cpp(24,10): warning C4244:         with
+F:\code\train\京东面试\京东面试.cpp(24,10): warning C4244:         [
+F:\code\train\京东面试\京东面试.cpp(24,10): warning C4244:             _Ty=__int64
+F:\code\train\京东面试\京东面试.cpp(24,10): warning C4244:         ]
+F:\code\train\京东面试\京东面试.cpp(29,15): warning C4244:  “=”: 从“_Ty”转换到“int”，可能丢失数据
+F:\code\train\京东面试\京东面试.cpp(29,15): warning C4244:         with
+F:\code\train\京东面试\京东面试.cpp(29,15): warning C4244:         [
+F:\code\train\京东面试\京东面试.cpp(29,15): warning C4244:             _Ty=__int64
+F:\code\train\京东面试\京东面试.cpp(29,15): warning C4244:         ]
+F:\code\train\京东面试\京东面试.cpp(39,22): warning C4244:  “参数”: 从“_Ty”转换到“const _Ty”，可能丢失数据
+F:\code\train\京东面试\京东面试.cpp(39,22): warning C4244:         with
+F:\code\train\京东面试\京东面试.cpp(39,22): warning C4244:         [
+F:\code\train\京东面试\京东面试.cpp(39,22): warning C4244:             _Ty=__int64
+F:\code\train\京东面试\京东面试.cpp(39,22): warning C4244:         ]
+F:\code\train\京东面试\京东面试.cpp(39,22): warning C4244:         and
+F:\code\train\京东面试\京东面试.cpp(39,22): warning C4244:         [
+F:\code\train\京东面试\京东面试.cpp(39,22): warning C4244:             _Ty=int
+F:\code\train\京东面试\京东面试.cpp(39,22): warning C4244:         ]
+F:\code\train\京东面试\京东面试.cpp(47,26): warning C4244:  “参数”: 从“_Ty”转换到“const _Ty”，可能丢失数据
+F:\code\train\京东面试\京东面试.cpp(47,26): warning C4244:         with
+F:\code\train\京东面试\京东面试.cpp(47,26): warning C4244:         [
+F:\code\train\京东面试\京东面试.cpp(47,26): warning C4244:             _Ty=__int64
+F:\code\train\京东面试\京东面试.cpp(47,26): warning C4244:         ]
+F:\code\train\京东面试\京东面试.cpp(47,26): warning C4244:         and
+F:\code\train\京东面试\京东面试.cpp(47,26): warning C4244:         [
+F:\code\train\京东面试\京东面试.cpp(47,26): warning C4244:             _Ty=int
+F:\code\train\京东面试\京东面试.cpp(47,26): warning C4244:         ]
+F:\code\train\京东面试\京东面试.cpp(52,26): warning C4244:  “参数”: 从“_Ty”转换到“const _Ty”，可能丢失数据
+F:\code\train\京东面试\京东面试.cpp(52,26): warning C4244:         with
+F:\code\train\京东面试\京东面试.cpp(52,26): warning C4244:         [
+F:\code\train\京东面试\京东面试.cpp(52,26): warning C4244:             _Ty=__int64
+F:\code\train\京东面试\京东面试.cpp(52,26): warning C4244:         ]
+F:\code\train\京东面试\京东面试.cpp(52,26): warning C4244:         and
+F:\code\train\京东面试\京东面试.cpp(52,26): warning C4244:         [
+F:\code\train\京东面试\京东面试.cpp(52,26): warning C4244:             _Ty=int
+F:\code\train\京东面试\京东面试.cpp(52,26): warning C4244:         ]
+  京东面试.vcxproj -> F:\code\train\x64\Debug\京东面试.exe

@@ -1,0 +1,9 @@
+﻿  排序问题.cpp
+F:\code\train\排序问题\sort.h(34,7): warning C4101:  “i”: 未引用的局部变量
+F:\code\train\排序问题\sort.h(49,7): warning C4101:  “i”: 未引用的局部变量
+F:\code\train\排序问题\sort.h(99,13): warning C4101:  “l”: 未引用的局部变量
+F:\code\train\排序问题\sort.h(136,1): warning C4267:  “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\code\train\排序问题\sort.h(144,12): warning C4101:  “j”: 未引用的局部变量
+F:\code\train\排序问题\sort.h(157,7): warning C4101:  “i”: 未引用的局部变量
+F:\code\train\排序问题\排序问题.cpp(10,23): warning C4267:  “参数”: 从“size_t”转换到“int”，可能丢失数据
+  排序问题.vcxproj -> F:\code\train\x64\Debug\排序问题.exe

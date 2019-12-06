@@ -1,0 +1,5 @@
+﻿  网易游戏2020.cpp
+F:\code\train\网易游戏2020\solution.h(41,1): warning C4267:  “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\code\train\网易游戏2020\solution.h(112,1): warning C4267:  “=”: 从“size_t”转换到“int”，可能丢失数据
+F:\code\train\网易游戏2020\网易游戏2020.cpp(15,1): warning C4267:  “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  网易游戏2020.vcxproj -> F:\code\train\x64\Debug\网易游戏2020.exe

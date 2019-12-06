@@ -1,0 +1,20 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(ConsoleApplication1.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  GPA.cpp
+e:\算法file\consoleapplication1\consoleapplication1\binary_searchst.h(183): error C2953: “Binary_SearchST”: 类模板已经定义
+  e:\算法file\consoleapplication1\consoleapplication1\binary_searchst.h(9): note: 参见“Binary_SearchST”的声明
+e:\算法file\consoleapplication1\consoleapplication1\sequentialsearchst.h(109): error C2953: “SequentialSearchST”: 类模板已经定义
+  e:\算法file\consoleapplication1\consoleapplication1\sequentialsearchst.h(10): note: 参见“SequentialSearchST”的声明
+e:\算法file\consoleapplication1\consoleapplication1\gpa.cpp(17): error C2514: “Binary_SearchST”: 类没有构造函数
+  e:\算法file\consoleapplication1\consoleapplication1\binary_searchst.h(9): note: 参见“Binary_SearchST”的声明
+e:\算法file\consoleapplication1\consoleapplication1\gpa.cpp(17): error C2512: “Binary_SearchST”: 没有合适的默认构造函数可用
+  e:\算法file\consoleapplication1\consoleapplication1\binary_searchst.h(9): note: 参见“Binary_SearchST”的声明
+e:\算法file\consoleapplication1\consoleapplication1\gpa.cpp(19): error C2662: “void Binary_SearchST<Key,Value>::put(Key,Value)”: 不能将“this”指针从“Binary_SearchST”转换为“Binary_SearchST<Key,Value> &”
+  e:\算法file\consoleapplication1\consoleapplication1\gpa.cpp(19): note: 原因如下: 无法从“Binary_SearchST”转换为“Binary_SearchST<Key,Value>”
+  e:\算法file\consoleapplication1\consoleapplication1\gpa.cpp(19): note: 转换要求第二个用户定义的转换运算符或构造函数
+e:\算法file\consoleapplication1\consoleapplication1\gpa.cpp(21): error C2663: “Binary_SearchST<Key,Value>::size”: 2 个重载没有“this”指针的合法转换
+e:\算法file\consoleapplication1\consoleapplication1\gpa.cpp(22): error C2662: “Key Binary_SearchST<Key,Value>::min_key(void)”: 不能将“this”指针从“Binary_SearchST”转换为“Binary_SearchST<Key,Value> &”
+  e:\算法file\consoleapplication1\consoleapplication1\gpa.cpp(22): note: 原因如下: 无法从“Binary_SearchST”转换为“Binary_SearchST<Key,Value>”
+  e:\算法file\consoleapplication1\consoleapplication1\gpa.cpp(22): note: 转换要求第二个用户定义的转换运算符或构造函数
+e:\算法file\consoleapplication1\consoleapplication1\gpa.cpp(23): error C2662: “Key Binary_SearchST<Key,Value>::max_key(void)”: 不能将“this”指针从“Binary_SearchST”转换为“Binary_SearchST<Key,Value> &”
+  e:\算法file\consoleapplication1\consoleapplication1\gpa.cpp(23): note: 原因如下: 无法从“Binary_SearchST”转换为“Binary_SearchST<Key,Value>”
+  e:\算法file\consoleapplication1\consoleapplication1\gpa.cpp(23): note: 转换要求第二个用户定义的转换运算符或构造函数

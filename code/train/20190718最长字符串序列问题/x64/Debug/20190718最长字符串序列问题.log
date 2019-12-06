@@ -1,0 +1,7 @@
+﻿  20190718最长字符串序列问题.cpp
+F:\code\train\20190718最长字符串序列问题\solution.h(33,1): warning C4267:  “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\code\train\20190718最长字符串序列问题\solution.h(36,1): warning C4267:  “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\code\train\20190718最长字符串序列问题\solution.h(51,1): warning C4267:  “return”: 从“size_t”转换到“int”，可能丢失数据
+F:\code\train\20190718最长字符串序列问题\solution.h(168,1): warning C4267:  “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\code\train\20190718最长字符串序列问题\solution.h(185,1): warning C4267:  “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  20190718最长字符串序列问题.vcxproj -> F:\code\train\x64\Debug\20190718最长字符串序列问题.exe

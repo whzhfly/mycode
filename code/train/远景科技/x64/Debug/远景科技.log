@@ -1,0 +1,4 @@
+﻿  远景科技.cpp
+F:\code\train\远景科技\solution.h(22,1): warning C4267:  “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\code\train\远景科技\solution.h(79,1): warning C4267:  “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  远景科技.vcxproj -> F:\code\train\x64\Debug\远景科技.exe
